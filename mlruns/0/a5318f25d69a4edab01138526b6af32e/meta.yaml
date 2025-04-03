@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malis/OneDrive/Desktop/Shrujan/mlops/mlops_iNeuron_E_to_E_project/mlruns/0/a5318f25d69a4edab01138526b6af32e/artifacts
+end_time: 1743137185724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5318f25d69a4edab01138526b6af32e
+run_name: dapper-quail-883
+run_uuid: a5318f25d69a4edab01138526b6af32e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743137169552
+status: 4
+tags: []
+user_id: malis

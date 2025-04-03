@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/malis/OneDrive/Desktop/Shrujan/mlops/mlops_iNeuron_E_to_E_project/mlruns/0/6a38a6ddb7ea49e09af0335dea9815fd/artifacts
+end_time: 1743495180475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a38a6ddb7ea49e09af0335dea9815fd
+run_name: awesome-rook-879
+run_uuid: 6a38a6ddb7ea49e09af0335dea9815fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743495169047
+status: 3
+tags: []
+user_id: malis
